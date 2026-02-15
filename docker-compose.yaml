@@ -2,14 +2,21 @@ services:
   tgbot:
     build: .
     restart: unless-stopped
+    env_file:
+      - src/.env
     environment:
+      ADMIN_USER_IDS: ${ADMIN_USER_IDS:?}
       TG_BOT_TOKEN: ${TG_BOT_TOKEN:?}
+      TG_BOT_NAME: ${TG_BOT_NAME:-TGBot}
+      TG_BOT_USERNAME: ${TG_BOT_NAME:-TGBot}
+      OPENROUTER_API_KEY: ${OPENROUTER_API_KEY:?}
+      OPENROUTER_MODEL: ${OPENROUTER_MODEL:-openrouter\/aurora\-alpha}
       POSTGRES_URL: ${POSTGRES_URL:?}
       DATA_DIR: /app/data
     volumes:
       - tgbot-data:/app/data
     labels:
-      - "traefik.enable=false"
+      traefik.enable: false
 
 volumes:
   tgbot-data:
