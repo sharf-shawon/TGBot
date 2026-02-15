@@ -1,0 +1,1016 @@
+[
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "environ",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "importPath": "core.env",
+        "description": "core.env",
+        "isExtraImport": true,
+        "detail": "core.env",
+        "documentation": {}
+    },
+    {
+        "label": "ENV",
+        "importPath": "core.env",
+        "description": "core.env",
+        "isExtraImport": true,
+        "detail": "core.env",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "dotenv_values",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Set",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Set",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "psycopg2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psycopg2",
+        "description": "psycopg2",
+        "detail": "psycopg2",
+        "documentation": {}
+    },
+    {
+        "label": "RealDictCursor",
+        "importPath": "psycopg2.extras",
+        "description": "psycopg2.extras",
+        "isExtraImport": true,
+        "detail": "psycopg2.extras",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "httpx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "httpx",
+        "description": "httpx",
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseService",
+        "importPath": "services.database",
+        "description": "services.database",
+        "isExtraImport": true,
+        "detail": "services.database",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseService",
+        "importPath": "services.database",
+        "description": "services.database",
+        "isExtraImport": true,
+        "detail": "services.database",
+        "documentation": {}
+    },
+    {
+        "label": "LLMService",
+        "importPath": "services.llm_service",
+        "description": "services.llm_service",
+        "isExtraImport": true,
+        "detail": "services.llm_service",
+        "documentation": {}
+    },
+    {
+        "label": "SQLFilter",
+        "importPath": "services.sql_filter",
+        "description": "services.sql_filter",
+        "isExtraImport": true,
+        "detail": "services.sql_filter",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "sqlparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlparse",
+        "description": "sqlparse",
+        "detail": "sqlparse",
+        "documentation": {}
+    },
+    {
+        "label": "Statement",
+        "importPath": "sqlparse.sql",
+        "description": "sqlparse.sql",
+        "isExtraImport": true,
+        "detail": "sqlparse.sql",
+        "documentation": {}
+    },
+    {
+        "label": "Keyword",
+        "importPath": "sqlparse.tokens",
+        "description": "sqlparse.tokens",
+        "isExtraImport": true,
+        "detail": "sqlparse.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "asdict",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "ReplyKeyboardRemove",
+        "importPath": "telegram",
+        "description": "telegram",
+        "isExtraImport": true,
+        "detail": "telegram",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "importPath": "telegram",
+        "description": "telegram",
+        "isExtraImport": true,
+        "detail": "telegram",
+        "documentation": {}
+    },
+    {
+        "label": "Application",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "CommandHandler",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "ContextTypes",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationHandler",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "MessageHandler",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "filters",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "ADMIN_USER_IDS",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATA_DIR",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "OPENROUTER_API_KEY",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "OPENROUTER_MODEL",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "POSTGRES_URL",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "TG_BOT_TOKEN",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "AccessControl",
+        "importPath": "services.access_control",
+        "description": "services.access_control",
+        "isExtraImport": true,
+        "detail": "services.access_control",
+        "documentation": {}
+    },
+    {
+        "label": "get_models_service",
+        "importPath": "services.openrouter_models",
+        "description": "services.openrouter_models",
+        "isExtraImport": true,
+        "detail": "services.openrouter_models",
+        "documentation": {}
+    },
+    {
+        "label": "QueryProcessor",
+        "importPath": "services.query_processor",
+        "description": "services.query_processor",
+        "isExtraImport": true,
+        "detail": "services.query_processor",
+        "documentation": {}
+    },
+    {
+        "label": "UserStateManager",
+        "importPath": "services.user_state",
+        "description": "services.user_state",
+        "isExtraImport": true,
+        "detail": "services.user_state",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"tgbot\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.14/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"tgbot\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.14/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"tgbot\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.14/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"tgbot\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.14/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"tgbot\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.14/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.14/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "TG_BOT_NAME",
+        "kind": 5,
+        "importPath": "src.core.config",
+        "description": "src.core.config",
+        "peekOfCode": "TG_BOT_NAME = ENV.get(\"TG_BOT_NAME\", \"your_bot_Name_here\")\nTG_BOT_USERNAME = ENV.get(\"TG_BOT_USERNAME\", \"your_bot_username_here\")\nTG_BOT_TOKEN = ENV.get(\"TG_BOT_TOKEN\", \"your_bot_token_here\")\nTG_BOT_OWNER_ID = ENV.get(\"TG_BOT_OWNER_ID\", 123456789)\nTG_BOT_DP_URL = ENV.get(\"TG_BOT_DP_URL\", \"profile_picture_url\")\n# Admin user IDs (comma-separated list)\n_admin_ids_str = ENV.get(\"ADMIN_USER_IDS\", 6732766579)  \nADMIN_USER_IDS = [int(uid.strip()) for uid in _admin_ids_str.split(\",\") if uid.strip()]\n# OpenRouter Configuration (optional global defaults)\n# Optional global API key",
+        "detail": "src.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "TG_BOT_USERNAME",
+        "kind": 5,
+        "importPath": "src.core.config",
+        "description": "src.core.config",
+        "peekOfCode": "TG_BOT_USERNAME = ENV.get(\"TG_BOT_USERNAME\", \"your_bot_username_here\")\nTG_BOT_TOKEN = ENV.get(\"TG_BOT_TOKEN\", \"your_bot_token_here\")\nTG_BOT_OWNER_ID = ENV.get(\"TG_BOT_OWNER_ID\", 123456789)\nTG_BOT_DP_URL = ENV.get(\"TG_BOT_DP_URL\", \"profile_picture_url\")\n# Admin user IDs (comma-separated list)\n_admin_ids_str = ENV.get(\"ADMIN_USER_IDS\", 6732766579)  \nADMIN_USER_IDS = [int(uid.strip()) for uid in _admin_ids_str.split(\",\") if uid.strip()]\n# OpenRouter Configuration (optional global defaults)\n# Optional global API key\nOPENROUTER_API_KEY = ENV.get(\"OPENROUTER_API_KEY\", None)",
+        "detail": "src.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "TG_BOT_TOKEN",
+        "kind": 5,
+        "importPath": "src.core.config",
+        "description": "src.core.config",
+        "peekOfCode": "TG_BOT_TOKEN = ENV.get(\"TG_BOT_TOKEN\", \"your_bot_token_here\")\nTG_BOT_OWNER_ID = ENV.get(\"TG_BOT_OWNER_ID\", 123456789)\nTG_BOT_DP_URL = ENV.get(\"TG_BOT_DP_URL\", \"profile_picture_url\")\n# Admin user IDs (comma-separated list)\n_admin_ids_str = ENV.get(\"ADMIN_USER_IDS\", 6732766579)  \nADMIN_USER_IDS = [int(uid.strip()) for uid in _admin_ids_str.split(\",\") if uid.strip()]\n# OpenRouter Configuration (optional global defaults)\n# Optional global API key\nOPENROUTER_API_KEY = ENV.get(\"OPENROUTER_API_KEY\", None)\n# Default model for all users (using free model by default)",
+        "detail": "src.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "TG_BOT_OWNER_ID",
+        "kind": 5,
+        "importPath": "src.core.config",
+        "description": "src.core.config",
+        "peekOfCode": "TG_BOT_OWNER_ID = ENV.get(\"TG_BOT_OWNER_ID\", 123456789)\nTG_BOT_DP_URL = ENV.get(\"TG_BOT_DP_URL\", \"profile_picture_url\")\n# Admin user IDs (comma-separated list)\n_admin_ids_str = ENV.get(\"ADMIN_USER_IDS\", 6732766579)  \nADMIN_USER_IDS = [int(uid.strip()) for uid in _admin_ids_str.split(\",\") if uid.strip()]\n# OpenRouter Configuration (optional global defaults)\n# Optional global API key\nOPENROUTER_API_KEY = ENV.get(\"OPENROUTER_API_KEY\", None)\n# Default model for all users (using free model by default)\nOPENROUTER_MODEL = ENV.get(",
+        "detail": "src.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "TG_BOT_DP_URL",
+        "kind": 5,
+        "importPath": "src.core.config",
+        "description": "src.core.config",
+        "peekOfCode": "TG_BOT_DP_URL = ENV.get(\"TG_BOT_DP_URL\", \"profile_picture_url\")\n# Admin user IDs (comma-separated list)\n_admin_ids_str = ENV.get(\"ADMIN_USER_IDS\", 6732766579)  \nADMIN_USER_IDS = [int(uid.strip()) for uid in _admin_ids_str.split(\",\") if uid.strip()]\n# OpenRouter Configuration (optional global defaults)\n# Optional global API key\nOPENROUTER_API_KEY = ENV.get(\"OPENROUTER_API_KEY\", None)\n# Default model for all users (using free model by default)\nOPENROUTER_MODEL = ENV.get(\n    \"OPENROUTER_MODEL\", \"google/gemini-flash-1.5:free\"",
+        "detail": "src.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "_admin_ids_str",
+        "kind": 5,
+        "importPath": "src.core.config",
+        "description": "src.core.config",
+        "peekOfCode": "_admin_ids_str = ENV.get(\"ADMIN_USER_IDS\", 6732766579)  \nADMIN_USER_IDS = [int(uid.strip()) for uid in _admin_ids_str.split(\",\") if uid.strip()]\n# OpenRouter Configuration (optional global defaults)\n# Optional global API key\nOPENROUTER_API_KEY = ENV.get(\"OPENROUTER_API_KEY\", None)\n# Default model for all users (using free model by default)\nOPENROUTER_MODEL = ENV.get(\n    \"OPENROUTER_MODEL\", \"google/gemini-flash-1.5:free\"\n)\n# PostgreSQL connection URL",
+        "detail": "src.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "ADMIN_USER_IDS",
+        "kind": 5,
+        "importPath": "src.core.config",
+        "description": "src.core.config",
+        "peekOfCode": "ADMIN_USER_IDS = [int(uid.strip()) for uid in _admin_ids_str.split(\",\") if uid.strip()]\n# OpenRouter Configuration (optional global defaults)\n# Optional global API key\nOPENROUTER_API_KEY = ENV.get(\"OPENROUTER_API_KEY\", None)\n# Default model for all users (using free model by default)\nOPENROUTER_MODEL = ENV.get(\n    \"OPENROUTER_MODEL\", \"google/gemini-flash-1.5:free\"\n)\n# PostgreSQL connection URL\n# Format: postgresql://username:password@host:port/database",
+        "detail": "src.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "OPENROUTER_API_KEY",
+        "kind": 5,
+        "importPath": "src.core.config",
+        "description": "src.core.config",
+        "peekOfCode": "OPENROUTER_API_KEY = ENV.get(\"OPENROUTER_API_KEY\", None)\n# Default model for all users (using free model by default)\nOPENROUTER_MODEL = ENV.get(\n    \"OPENROUTER_MODEL\", \"google/gemini-flash-1.5:free\"\n)\n# PostgreSQL connection URL\n# Format: postgresql://username:password@host:port/database\nPOSTGRES_URL = ENV.get(\"POSTGRES_URL\", \"postgresql://user:password@localhost:5432/database\")\n# Data directory for persistent storage\n# Default: ./data in project root for local dev, /app/data for Docker",
+        "detail": "src.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "OPENROUTER_MODEL",
+        "kind": 5,
+        "importPath": "src.core.config",
+        "description": "src.core.config",
+        "peekOfCode": "OPENROUTER_MODEL = ENV.get(\n    \"OPENROUTER_MODEL\", \"google/gemini-flash-1.5:free\"\n)\n# PostgreSQL connection URL\n# Format: postgresql://username:password@host:port/database\nPOSTGRES_URL = ENV.get(\"POSTGRES_URL\", \"postgresql://user:password@localhost:5432/database\")\n# Data directory for persistent storage\n# Default: ./data in project root for local dev, /app/data for Docker\n_default_data_dir = str(BASE_DIR.parent / \"data\")\nDATA_DIR = ENV.get(\"DATA_DIR\", _default_data_dir)",
+        "detail": "src.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "POSTGRES_URL",
+        "kind": 5,
+        "importPath": "src.core.config",
+        "description": "src.core.config",
+        "peekOfCode": "POSTGRES_URL = ENV.get(\"POSTGRES_URL\", \"postgresql://user:password@localhost:5432/database\")\n# Data directory for persistent storage\n# Default: ./data in project root for local dev, /app/data for Docker\n_default_data_dir = str(BASE_DIR.parent / \"data\")\nDATA_DIR = ENV.get(\"DATA_DIR\", _default_data_dir)",
+        "detail": "src.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "_default_data_dir",
+        "kind": 5,
+        "importPath": "src.core.config",
+        "description": "src.core.config",
+        "peekOfCode": "_default_data_dir = str(BASE_DIR.parent / \"data\")\nDATA_DIR = ENV.get(\"DATA_DIR\", _default_data_dir)",
+        "detail": "src.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATA_DIR",
+        "kind": 5,
+        "importPath": "src.core.config",
+        "description": "src.core.config",
+        "peekOfCode": "DATA_DIR = ENV.get(\"DATA_DIR\", _default_data_dir)",
+        "detail": "src.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "src.core.env",
+        "description": "src.core.env",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Load src/.env and overlay with real environment variables (env wins).\nENV = {**dotenv_values(BASE_DIR / \".env\"), **environ}\n__all__ = [\"ENV\", \"BASE_DIR\"]",
+        "detail": "src.core.env",
+        "documentation": {}
+    },
+    {
+        "label": "ENV",
+        "kind": 5,
+        "importPath": "src.core.env",
+        "description": "src.core.env",
+        "peekOfCode": "ENV = {**dotenv_values(BASE_DIR / \".env\"), **environ}\n__all__ = [\"ENV\", \"BASE_DIR\"]",
+        "detail": "src.core.env",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "src.core.env",
+        "description": "src.core.env",
+        "peekOfCode": "__all__ = [\"ENV\", \"BASE_DIR\"]",
+        "detail": "src.core.env",
+        "documentation": {}
+    },
+    {
+        "label": "AccessControl",
+        "kind": 6,
+        "importPath": "src.services.access_control",
+        "description": "src.services.access_control",
+        "peekOfCode": "class AccessControl:\n    \"\"\"Manage user access permissions.\"\"\"\n    def __init__(self, data_dir: Path, admin_ids: List[int]):\n        \"\"\"Initialize access control.\n        Args:\n            data_dir: Directory to store access data\n            admin_ids: List of admin user IDs\n        \"\"\"\n        self.data_dir = Path(data_dir)\n        self.access_file = self.data_dir / \"access_control.json\"",
+        "detail": "src.services.access_control",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.services.access_control",
+        "description": "src.services.access_control",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass AccessControl:\n    \"\"\"Manage user access permissions.\"\"\"\n    def __init__(self, data_dir: Path, admin_ids: List[int]):\n        \"\"\"Initialize access control.\n        Args:\n            data_dir: Directory to store access data\n            admin_ids: List of admin user IDs\n        \"\"\"\n        self.data_dir = Path(data_dir)",
+        "detail": "src.services.access_control",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseService",
+        "kind": 6,
+        "importPath": "src.services.database",
+        "description": "src.services.database",
+        "peekOfCode": "class DatabaseService:\n    \"\"\"Service for interacting with PostgreSQL database.\"\"\"\n    def __init__(self, connection_url: str):\n        \"\"\"Initialize database service with connection URL.\n        Args:\n            connection_url: PostgreSQL connection URL\n        \"\"\"\n        self.connection_url = connection_url\n        self._connection = None\n        self._schema_cache: Optional[str] = None",
+        "detail": "src.services.database",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.services.database",
+        "description": "src.services.database",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass DatabaseService:\n    \"\"\"Service for interacting with PostgreSQL database.\"\"\"\n    def __init__(self, connection_url: str):\n        \"\"\"Initialize database service with connection URL.\n        Args:\n            connection_url: PostgreSQL connection URL\n        \"\"\"\n        self.connection_url = connection_url\n        self._connection = None",
+        "detail": "src.services.database",
+        "documentation": {}
+    },
+    {
+        "label": "LLMService",
+        "kind": 6,
+        "importPath": "src.services.llm_service",
+        "description": "src.services.llm_service",
+        "peekOfCode": "class LLMService:\n    \"\"\"Service for LLM operations using OpenRouter.\"\"\"\n    # OpenRouter base URL\n    OPENROUTER_BASE_URL = \"https://openrouter.ai/api/v1\"\n    # Default model - can be changed by user\n    DEFAULT_MODEL = \"anthropic/claude-3.5-sonnet\"\n    def __init__(self, api_key: str, model: Optional[str] = None):\n        \"\"\"Initialize LLM service.\n        Args:\n            api_key: OpenRouter API key",
+        "detail": "src.services.llm_service",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.services.llm_service",
+        "description": "src.services.llm_service",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass LLMService:\n    \"\"\"Service for LLM operations using OpenRouter.\"\"\"\n    # OpenRouter base URL\n    OPENROUTER_BASE_URL = \"https://openrouter.ai/api/v1\"\n    # Default model - can be changed by user\n    DEFAULT_MODEL = \"anthropic/claude-3.5-sonnet\"\n    def __init__(self, api_key: str, model: Optional[str] = None):\n        \"\"\"Initialize LLM service.\n        Args:",
+        "detail": "src.services.llm_service",
+        "documentation": {}
+    },
+    {
+        "label": "OpenRouterModelsService",
+        "kind": 6,
+        "importPath": "src.services.openrouter_models",
+        "description": "src.services.openrouter_models",
+        "peekOfCode": "class OpenRouterModelsService:\n    \"\"\"Service for managing OpenRouter models.\"\"\"\n    OPENROUTER_API_URL = \"https://openrouter.ai/api/v1/models\"\n    def __init__(self):\n        \"\"\"Initialize the models service.\"\"\"\n        self._models_cache: Optional[List[Dict]] = None\n        self._free_models_cache: Optional[List[Dict]] = None\n        self._cache_timestamp: Optional[datetime] = None\n        self._cache_duration = timedelta(hours=24)  # Cache for 24 hours\n    def _is_cache_valid(self) -> bool:",
+        "detail": "src.services.openrouter_models",
+        "documentation": {}
+    },
+    {
+        "label": "get_models_service",
+        "kind": 2,
+        "importPath": "src.services.openrouter_models",
+        "description": "src.services.openrouter_models",
+        "peekOfCode": "def get_models_service() -> OpenRouterModelsService:\n    \"\"\"Get the global models service instance.\"\"\"\n    global _models_service\n    if _models_service is None:\n        _models_service = OpenRouterModelsService()\n    return _models_service",
+        "detail": "src.services.openrouter_models",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.services.openrouter_models",
+        "description": "src.services.openrouter_models",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass OpenRouterModelsService:\n    \"\"\"Service for managing OpenRouter models.\"\"\"\n    OPENROUTER_API_URL = \"https://openrouter.ai/api/v1/models\"\n    def __init__(self):\n        \"\"\"Initialize the models service.\"\"\"\n        self._models_cache: Optional[List[Dict]] = None\n        self._free_models_cache: Optional[List[Dict]] = None\n        self._cache_timestamp: Optional[datetime] = None\n        self._cache_duration = timedelta(hours=24)  # Cache for 24 hours",
+        "detail": "src.services.openrouter_models",
+        "documentation": {}
+    },
+    {
+        "label": "QueryProcessor",
+        "kind": 6,
+        "importPath": "src.services.query_processor",
+        "description": "src.services.query_processor",
+        "peekOfCode": "class QueryProcessor:\n    \"\"\"Processor to handle the complete query flow.\"\"\"\n    def __init__(self, database: DatabaseService, api_key: str, model: str = None):\n        \"\"\"Initialize query processor.\n        Args:\n            database: Database service instance\n            api_key: OpenRouter API key\n            model: OpenRouter model to use (optional, uses LLMService default if not provided)\n        \"\"\"\n        self.database = database",
+        "detail": "src.services.query_processor",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.services.query_processor",
+        "description": "src.services.query_processor",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass QueryProcessor:\n    \"\"\"Processor to handle the complete query flow.\"\"\"\n    def __init__(self, database: DatabaseService, api_key: str, model: str = None):\n        \"\"\"Initialize query processor.\n        Args:\n            database: Database service instance\n            api_key: OpenRouter API key\n            model: OpenRouter model to use (optional, uses LLMService default if not provided)\n        \"\"\"",
+        "detail": "src.services.query_processor",
+        "documentation": {}
+    },
+    {
+        "label": "SQLFilter",
+        "kind": 6,
+        "importPath": "src.services.sql_filter",
+        "description": "src.services.sql_filter",
+        "peekOfCode": "class SQLFilter:\n    \"\"\"Filter to validate SQL queries and prevent dangerous operations.\"\"\"\n    # Keywords that are forbidden for read-only access\n    FORBIDDEN_KEYWORDS: Set[str] = {\n        \"INSERT\",\n        \"UPDATE\",\n        \"DELETE\",\n        \"DROP\",\n        \"CREATE\",\n        \"ALTER\",",
+        "detail": "src.services.sql_filter",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.services.sql_filter",
+        "description": "src.services.sql_filter",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass SQLFilter:\n    \"\"\"Filter to validate SQL queries and prevent dangerous operations.\"\"\"\n    # Keywords that are forbidden for read-only access\n    FORBIDDEN_KEYWORDS: Set[str] = {\n        \"INSERT\",\n        \"UPDATE\",\n        \"DELETE\",\n        \"DROP\",\n        \"CREATE\",",
+        "detail": "src.services.sql_filter",
+        "documentation": {}
+    },
+    {
+        "label": "UserState",
+        "kind": 6,
+        "importPath": "src.services.user_state",
+        "description": "src.services.user_state",
+        "peekOfCode": "class UserState:\n    \"\"\"User state data structure.\"\"\"\n    user_id: int\n    openrouter_api_key: Optional[str] = None\n    openrouter_model: Optional[str] = None  # User's preferred model (optional)\n    max_query_results: int = 100\n    show_sql: bool = False\n    def to_dict(self) -> Dict:\n        \"\"\"Convert to dictionary.\"\"\"\n        return asdict(self)",
+        "detail": "src.services.user_state",
+        "documentation": {}
+    },
+    {
+        "label": "UserStateManager",
+        "kind": 6,
+        "importPath": "src.services.user_state",
+        "description": "src.services.user_state",
+        "peekOfCode": "class UserStateManager:\n    \"\"\"Manager for user states with persistent storage.\"\"\"\n    def __init__(self, data_dir: Path):\n        \"\"\"Initialize user state manager.\n        Args:\n            data_dir: Directory to store user data\n        \"\"\"\n        self.data_dir = Path(data_dir)\n        self.users_file = self.data_dir / \"users.json\"\n        self._states: Dict[int, UserState] = {}",
+        "detail": "src.services.user_state",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.services.user_state",
+        "description": "src.services.user_state",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n@dataclass\nclass UserState:\n    \"\"\"User state data structure.\"\"\"\n    user_id: int\n    openrouter_api_key: Optional[str] = None\n    openrouter_model: Optional[str] = None  # User's preferred model (optional)\n    max_query_results: int = 100\n    show_sql: bool = False\n    def to_dict(self) -> Dict:",
+        "detail": "src.services.user_state",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "def main() -> None:\n    \"\"\"Start the bot.\"\"\"\n    global user_manager, database, access_control\n    # Initialize user state manager\n    data_dir = Path(DATA_DIR)\n    user_manager = UserStateManager(data_dir)\n    logger.info(f\"User manager initialized with data dir: {data_dir}\")\n    # Initialize access control\n    access_control = AccessControl(data_dir, ADMIN_USER_IDS)\n    logger.info(f\"Access control initialized with {len(ADMIN_USER_IDS)} admin(s)\")",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# Conversation states\nWAITING_FOR_API_KEY = 1\n# Global instances\nuser_manager: Optional[UserStateManager] = None\ndatabase: Optional[DatabaseService] = None\naccess_control: Optional[AccessControl] = None\n# Cache for model number mappings (user_id -> {number -> model_id})\nuser_model_mappings: Dict[int, Dict[int, str]] = {}\nasync def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "WAITING_FOR_API_KEY",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "WAITING_FOR_API_KEY = 1\n# Global instances\nuser_manager: Optional[UserStateManager] = None\ndatabase: Optional[DatabaseService] = None\naccess_control: Optional[AccessControl] = None\n# Cache for model number mappings (user_id -> {number -> model_id})\nuser_model_mappings: Dict[int, Dict[int, str]] = {}\nasync def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:\n    \"\"\"Handle /start command - check if user has API key.\"\"\"\n    user = update.effective_user",
+        "detail": "src.main",
+        "documentation": {}
+    }
+]

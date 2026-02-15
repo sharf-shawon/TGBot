@@ -4,5 +4,13 @@ services:
     restart: unless-stopped
     environment:
       TG_BOT_TOKEN: ${TG_BOT_TOKEN:?}
+      POSTGRES_URL: ${POSTGRES_URL:?}
+      DATA_DIR: /app/data
+    volumes:
+      - tgbot-data:/app/data
     labels:
       - "traefik.enable=false"
+
+volumes:
+  tgbot-data:
+    driver: local

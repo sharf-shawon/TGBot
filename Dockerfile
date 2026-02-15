@@ -16,8 +16,11 @@ RUN pip install --upgrade pip \
 
 COPY src/ /app/src/
 
+# Create data directory
+RUN mkdir -p /app/data
+
 # Use a non-root user for runtime.
-RUN useradd -m appuser
+RUN useradd -m appuser && chown -R appuser:appuser /app/data
 USER appuser
 
 CMD ["/app/.venv/bin/python", "src/main.py"]
