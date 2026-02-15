@@ -10,7 +10,7 @@ services:
       TG_BOT_NAME: ${TG_BOT_NAME:-TGBot}
       TG_BOT_USERNAME: ${TG_BOT_NAME:-TGBot}
       OPENROUTER_API_KEY: ${OPENROUTER_API_KEY:?}
-      OPENROUTER_MODEL: ${OPENROUTER_MODEL:-openrouter\/aurora\-alpha}
+      OPENROUTER_MODEL: ${OPENROUTER_MODEL:-openrouter/aurora-alpha}
       POSTGRES_URL: ${POSTGRES_URL:?}
       DATA_DIR: /app/data
     volumes:
