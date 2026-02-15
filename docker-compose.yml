@@ -1,0 +1,8 @@
+services:
+  tgbot:
+    build: .
+    restart: unless-stopped
+    environment:
+      TG_BOT_TOKEN: ${TG_BOT_TOKEN:?}
+    labels:
+      - "traefik.enable=false"

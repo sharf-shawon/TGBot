@@ -1,0 +1,20 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+  "python.analysis.autoSearchPaths": true,
+  "python.analysis.useLibraryCodeForTypes": true,
+  "editor.defaultFormatter": "astral-sh.ruff",
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "files.autoSave": "onFocusChange",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.ruff": true,
+    "source.organizeImports.ruff": true
+  },
+  "ruff.enable": true,
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#0088CC",
+    "titleBar.activeForeground": "#ffffff",
+    "titleBar.inactiveBackground": "#0088cc9f",
+    "titleBar.inactiveForeground": "#ffffff"
+  }
+}
