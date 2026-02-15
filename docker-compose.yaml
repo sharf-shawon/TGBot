@@ -7,6 +7,6 @@ services:
       TG_BOT_NAME: ${TG_BOT_NAME:-TGBot}
       TG_BOT_USERNAME: ${TG_BOT_USERNAME:-TGBot}
     volumes:
-      - ./data:/app/data
+      - tgbot-data:/app/data
     labels:
       - "traefik.enable=false"
