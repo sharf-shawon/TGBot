@@ -214,3 +214,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Bot data (API keys, models, chat history)
+data/
