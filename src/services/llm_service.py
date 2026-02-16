@@ -53,12 +53,12 @@ class LLMService:
         """
         prompt_template = ChatPromptTemplate.from_messages([
             ("system", """You are an expert PostgreSQL SQL generator. Your job is to convert natural language questions into valid PostgreSQL SQL queries.
-
+Pay attention to the schema and use correct table and column names, including proper case sensitivity. Always ensure the SQL query is valid and can be executed against the provided schema without errors.
 Database Schema:
 {schema}
 
 IMPORTANT RULES:
-1. Generate ONLY valid PostgreSQL SELECT queries
+1. Generate ONLY valid PostgreSQL SELECT queries. 
 2. Never use INSERT, UPDATE, DELETE, DROP, CREATE, ALTER, or any data modification commands
 3. Use proper JOIN syntax when querying multiple tables
 4. Always use table aliases for clarity
@@ -238,6 +238,7 @@ IMPORTANT RULES:
 2. Never use INSERT, UPDATE, DELETE, DROP, CREATE, ALTER, or any data modification commands
 3. Return ONLY the SQL query without any explanation or markdown formatting
 4. Do not include semicolons at the end
+4. REMEMBER the databse schema when fixing the SQL query. The error message may be due to case insensitive naming, misspelled table or column names, missing JOINs, or other schema-related issues. Always refer to the schema to ensure the SQL query is valid and correctly references tables and columns.
 """),
             ("user", """This SQL query failed:
 {sql}
