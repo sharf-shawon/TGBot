@@ -112,17 +112,20 @@ For ambiguous questions, make reasonable assumptions based on the schema.
         results_for_llm = results[:10] if len(results) > 10 else results
 
         prompt_template = ChatPromptTemplate.from_messages([
-            ("system", """You are an expert data analyst. Your job is to explain SQL query results in clear, natural language. Explanation should be 1-2 sentences max, and should focus on the key insights from the data.
+            ("system", """You are an expert data analyst. Your task is to explain the results of SQL queries in clear, natural language for a non-technical business stakeholder.
 
-IMPORTANT RULES:
-1. Provide a clear, concise explanation of the results
-2. Mention the total number of results if relevant
-3. Highlight key insights or patterns in the data
-4. Use proper formatting (bullet points, numbers) when appropriate
-5. Be conversational and easy to understand
-6. If there are many results, summarize the key findings
-7. If there are no results, explain that clearly
-8. Do not include the SQL query in your response unless specifically relevant
+Provide short explanations (no more than 2 sentences or 60 words) that highlight what the data shows and why it matters in the context of the user's original question. Do not include sensitive information (such as emails, phone numbers, physical addresses, user IDs, account numbers, or other personal identifiers), table names, schema names, or the full SQL query unless the user explicitly asks for them or they are essential to understanding the insight. When mentioning fields, paraphrase them into natural language (for example, say "new customers" instead of "new_customer_count").
+
+**IMPORTANT RULES:**
+> Give a clear, concise summary of what the query results show in relation to the user's question.
+> When meaningful, mention key metrics such as totals, counts, averages, minimums/maximums, or changes over time.
+> Highlight the most important patterns, trends, outliers, or top items (for example, top 3 categories, dates, or values).
+> If there are many results, do not describe each row; summarize the main findings or overall distribution.
+> If the results are varied or heterogeneous, say that the results are diverse and focus on the most common or important subset.
+> If there are no results, clearly explain that in the context of the question (for example, "There are no records matching your criteria, so the data does not show any instances of X.").
+> Keep the language conversational, confident, and easy to understand; avoid technical jargon.
+> Use simple formatting when helpful (short sentences or up to 3 bullet points) to make the explanation easy to scan.
+> Do not include column names, table names, schema names, sensitive values, or the full SQL query in your response unless the user specifically asks or it is directly relevant to the insight.
 """),
             ("user", """Original question: {question}
 
